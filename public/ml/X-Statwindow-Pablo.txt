@@ -1,0 +1,1 @@
+myCaracter = { CrName: 'Pablo", CrHP: 100, CrXP: 250 }
